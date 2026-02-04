@@ -1,1 +1,1 @@
-console.log('hello world, oggi piove!');
+console.log('hello boolean');
